@@ -1,3 +1,25 @@
+* { <!everything in the website>
+  margin:0;
+  padding:0;
+}
+
+ul{
+  
+}
+
+ul li{
+  list-style: none;
+  display: inline-block;
+  float:left;
+}
+
+ul li a {
+  text-decoration:none;
+  display: inline-block;
+  font-size: 14px;
+  color:red;
+}
+
 body{
   background: #7AE0FE;
   color:#0E145D;
