@@ -36,6 +36,10 @@ ul li a:hover {
   
 }
 
+.zoom:hover {
+  transform: scale(1.5); 
+}
+
 body{
   background: #7AE0FE;
   color:#0E145D;
