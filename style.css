@@ -7,7 +7,7 @@
 nav{
  width:100%;
   height:100px;
-  background-color:#303a42;
+  background-color:#8cd2ed;
 }
 
 ul{
@@ -26,7 +26,7 @@ ul li a {
   text-decoration:none;
   display: inline-block;
   font-size: 14px;
-  color:#ebf6ff;
+  color:black;
   padding:0 20px;
 }
 
@@ -54,6 +54,6 @@ body{
 }
 
 footer{
-  background: #303a42;
-  color:#ebf6ff;
+  background: #8cd2ed;
+  color:black;
 }
