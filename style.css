@@ -1,6 +1,7 @@
 * { <!everything in the website>
   margin:0;
   padding:0;
+  font-family:Gill Sans, sans-serif;
 }
 
 nav{
@@ -47,7 +48,7 @@ div.box{
 body{
   background: #7AE0FE;
   color:#0E145D;
-  font-family:Bookman;
+  font-family:Gill Sans, serif;
   font-size: 1.1em;
   
 }
