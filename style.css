@@ -10,6 +10,14 @@ nav{
   background-color:#8cd2ed;
 }
 
+header{
+  background:url("images_for_website/photo of lizzie.jpg");
+  height:100vh;
+  -webkit-background-size:cover;
+  background-size:cover;
+  background-position: center center;
+  position: relative;
+}
 ul{
   margin-left:60px;
 }
