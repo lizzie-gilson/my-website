@@ -3,35 +3,31 @@
   padding:0;
   font-family:'Open Sans', sans-serif;
 }
+/*for images on cat page> */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
 
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+/*navagation bar */
 nav{
  width:100%;
   height:100px;
   background-color:#8cd2ed;
 }
 
-header{
- /* background:url("images_for_website/photo of lizzie.jpg"); */
-  background: url("images_for_website/lizzie2.jpg");
-  height:100vh;
-  -webkit-background-size:cover;
-  background-size:cover;
-  background-position: center center;
-  position: relative;
-}
-
-.header text{
-  text-align: center;
-  position: absolute;
-}
-
-.header text h1{
-  text-align:center; 
-}
-
-.header text h3{
-  text-align: center; 
-}
 ul{
   margin-left:60px;
 }
@@ -62,6 +58,31 @@ ul li a:hover {
 .zoom:hover {
   transform: scale(1.5); 
 }
+/*image header on home page> */
+header{
+ /* background:url("images_for_website/photo of lizzie.jpg"); */
+  background: url("images_for_website/lizzie2.jpg");
+  height:100vh;
+  -webkit-background-size:cover;
+  background-size:cover;
+  background-position: center center;
+  position: relative;
+}
+
+.header text{
+  text-align: center;
+  position: absolute;
+}
+
+.header text h1{
+  text-align:center; 
+}
+
+.header text h3{
+  text-align: center; 
+}
+
+
 
 div.box{
   text-align: center;
