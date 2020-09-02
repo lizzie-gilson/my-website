@@ -162,7 +162,7 @@ END OF CODE FOR SLIDE SHOW PHOTOS*/
 
 
 /*ATTEMPT TWO SLIDE SHOW PHOTOS*/
-* {}
+
 
 /* Slideshow container */
 .slideshow-container {
@@ -211,7 +211,7 @@ END OF CODE FOR SLIDE SHOW PHOTOS*/
   position: absolute;
   bottom: 8px;
   width: 100%;
-  text-align: center;
+  text-align: left;
 }
 
 /* Number text (1/3 etc) */
