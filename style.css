@@ -107,8 +107,8 @@ footer{
 }
 
 .image-container{
-	width: (combined width of images)px;
-	height: 600px;
+	width: 2400px;
+	height: 800px;
 	position: relative;
 	transition: left 2s;
 	-webkit-transition: left 2s;
