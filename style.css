@@ -4,6 +4,20 @@
   font-family:'Bookman Old Style','Open Sans', sans-serif;
 	box-sizing:border-box
 }
+/*Color of Links */
+a:link{
+	color: #c9e5f0;
+}
+
+a:hover{
+	color:pink;	
+}
+a:active{
+	color:pink;	
+}
+a:visited{
+	color:white;	
+}
 /*for images on cat page> */
 .column {
   float: left;
