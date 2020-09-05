@@ -1,3 +1,4 @@
+//SLIDE SHOW PICTURE CODE
 var slideIndex = 1;
 showSlides(slideIndex);
 
@@ -26,3 +27,9 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";
 //  dots[slideIndex-1].className += " active";
 }
+
+//BUTTON POPUP CODE
+fuction togglePopup(){
+  docutment.getElementById("popup-1").classList.toggle("active");
+}
+
