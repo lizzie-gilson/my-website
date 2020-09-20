@@ -198,7 +198,7 @@ END OF CODE FOR SLIDE SHOW PHOTOS*/
 
 
 /*ATTEMPT TWO SLIDE SHOW PHOTOS*/
-
+*{box-sizing:border-box}
 
 /* Slideshow container */
 .slideshow-container {
