@@ -303,16 +303,16 @@ END OF CODE FOR SLIDE SHOW PHOTOS*/
 }
 @keyframes slide{
 	25%{
-		background: url(cat2.jpg);
+		background: url("images_for_website/cat2.JPG");
 	}
 	50%{
-		background: url(cat3.jpg);
+		background: url("images_for_website/cat3.jpg");
 	}
 	75%{
-		background: url(cat4.jpg);
+		background: url("images_for_website/cat4.jpg");
 	}
 	100%{
-		background: url(cat1.jpg);
+		background: url("images_for_website/cat1.jpg");
 	}
 }
 	
